@@ -6,12 +6,12 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/wix/react-native-keyboard-input",
-  "author": "Leo Natan <lnatan@wix.com>",
+  "homepage": "https://github.com/theodorusyoga/react-native-keyboard-input",
+  "author": "Theodorus Yoga <theoyoga@outlook.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-keyboard-input.git"
+    "url": "https://github.com/theodorusyoga/react-native-keyboard-input.git"
   },
   "nativePackage": true,
   "keywords": [
@@ -22,7 +22,7 @@
     "input"
   ],
   "bugs": {
-    "url": "https://github.com/wix/react-native-keyboard-input/issues"
+    "url": "https://github.com/theodorusyoga/react-native-keyboard-input/issues"
   },
   "scripts": {
     "start": "react-native start",
