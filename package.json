@@ -1,5 +1,5 @@
 {
-  "name": "theo-react-native-keyboard-input",
+  "name": "react-native-keyboard-input-androidx",
   "description": "React Native Custom Input Controller",
   "version": "5.3.1",
   "main": "src/index.js",
